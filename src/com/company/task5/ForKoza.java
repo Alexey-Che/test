@@ -13,7 +13,7 @@ public class ForKoza implements ActionListener {
 
     public void actionPerformed(ActionEvent event)  {
 
-        text.setText("Таня коза");
+        text.setText("Тасяна");
 
 
     }
